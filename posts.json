@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Getting Started with Next.js",
+      "description": "Learn how to build modern web applications with Next.js",
+      "thumbnail": "https://images.app.goo.gl/2CcMqaYG7yrBdJQx6",
+      "content": "<p>Next.js is a powerful React framework that makes it easy to build server-side rendered and statically generated web applications. In this post, we'll explore the basics of Next.js and how to get started with your first project.</p><h2>Why Next.js?</h2><p>Next.js offers several benefits over traditional React applications:</p><ul><li>Server-side rendering</li><li>Automatic code splitting</li><li>Simple page-based routing</li><li>API routes</li><li>Built-in CSS support</li></ul><p>These features make Next.js an excellent choice for building fast, SEO-friendly web applications.</p>",
+      "author": "John Doe",
+      "date": "2023-05-15"
+    },
+    {
+      "id": "2",
+      "title": "Mastering Tailwind CSS",
+      "description": "Discover the power of utility-first CSS with Tailwind",
+      "thumbnail": "https://images.app.goo.gl/pymp1WuRfXjCmBEa9",
+      "content": "<p>Tailwind CSS is a utility-first CSS framework that allows you to rapidly build custom user interfaces. In this post, we'll dive into the core concepts of Tailwind and how to use it effectively in your projects.</p><h2>Key Features of Tailwind CSS</h2><p>Tailwind CSS offers several advantages:</p><ul><li>Highly customizable</li><li>Responsive design out of the box</li><li>Low-level utility classes</li><li>Smaller file sizes with PurgeCSS</li></ul><p>By leveraging these features, you can create beautiful, responsive designs quickly and efficiently.</p>",
+      "author": "Jane Smith",
+      "date": "2023-05-20"
+    }
+  ]
+}
+
